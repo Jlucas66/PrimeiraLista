@@ -1,0 +1,7 @@
+Jogo(main)
+Pessoa(nome, cartasNaMao) check
+dealer(darCartas)
+jogador(pedirFicar, aposta)
+carta(nome, naipe, valor)
+baralho(
+fichas(int valor, int quant, metodos: adicionarFicha, debitarFicha, checarQuantidade)
